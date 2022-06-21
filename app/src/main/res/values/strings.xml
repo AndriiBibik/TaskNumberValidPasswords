@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskNumberValidPasswords</string>
+    <string name="number_invalid_passwords_title">Number of valid passwords:</string>
+</resources>
